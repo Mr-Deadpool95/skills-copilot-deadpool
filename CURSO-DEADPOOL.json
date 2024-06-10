@@ -1,0 +1,11 @@
+{
+    // Name this configuration
+    "Curso-Deadpool": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
